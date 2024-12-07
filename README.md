@@ -1,4 +1,6 @@
 # Movie-Recommendation-System
+
+ĐỂ chạy code mọi cần tải file data từ link dataset ở dưới
 Link dataset: 
 
 https://drive.google.com/drive/folders/1AwmKbXm8nfuPl0xdiFRCYCCuukWG0ZFH?usp=drive_link
